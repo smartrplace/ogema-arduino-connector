@@ -1,0 +1,8 @@
+.classpath
+.project
+.settings/
+target/
+*~
+pom.xml.versionsBackup
+pom.xml.releaseBackup
+data
